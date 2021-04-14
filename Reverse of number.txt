@@ -2,7 +2,7 @@
 int main()
 {
  int n,d5,d4,d3,d2,d1;
- longint rev;
+ long int rev;
  printf("enter the five digit number\n");
  scanf("%d",&n);
  d5=n%10;
